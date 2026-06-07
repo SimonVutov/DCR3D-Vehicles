@@ -20,7 +20,7 @@ C:\Users\USER\AppData\LocalLow\RoKo0\dcr3d\...\_YourCars
 
 * 600+ custom vehicle files
 * Created over approximately 400 hours of gameplay
-* Vehicles built between 2019 and 2026
+* Vehicles built between 2017 and 2026
 * Includes a wide variety of designs and experiments
 
 ## Notes
@@ -28,6 +28,10 @@ C:\Users\USER\AppData\LocalLow\RoKo0\dcr3d\...\_YourCars
 This repository serves as a backup and archive of my Dream Car Racing 3D creations.
 
 If you're a fan of the game, feel free to browse the files, try the vehicles, and use them as inspiration for your own builds.
+
+`2026June6_YourCars.zip` is a raw zip backup of the car files from June 6, 2026.
+
+`save.py` can be run from inside the _YourCars directory to create a `.txt` file containing the names of vehicles and the corresponding dates created, ordered by date created. This is becuase github does not store this metadata, which is nice to have.
 
 # Some Demos:
 
