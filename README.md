@@ -31,13 +31,17 @@ If you're a fan of the game, feel free to browse the files, try the vehicles, an
 
 # Some Demos:
 
-## `S2.82.car`: 456km/h using 2 engines
+## `S2.82.car`: 458km/h using 2 engines
+<img width="720" height="405" alt="Replay 2026-06-06 15-05-30 (1)" src="https://github.com/user-attachments/assets/df7570c9-dba1-46a6-952f-a0e186761247" />
 
 ## `2025.82.car`: Taking advantage of panels and rods
+<img width="720" height="405" alt="Replay 2026-06-06 15-21-29 (2)" src="https://github.com/user-attachments/assets/db834b32-b536-4cfb-85a0-7d1d8d10111a" />
 
 ## `helicopter 0.62 Auto.car`: Helicopter with Collective & Cyclic Control
+<img width="720" height="405" alt="Replay 2026-06-06 15-25-23 (1)" src="https://github.com/user-attachments/assets/e84c2906-2ce2-4fe0-ba01-fceb761eb90d" />
 
 ## Starship
+<img width="720" height="405" alt="Replay 2026-06-06 15-29-54" src="https://github.com/user-attachments/assets/d78fa2ea-a7c4-476f-be78-ad9c097491a6" />
 
 ## Booster
 
