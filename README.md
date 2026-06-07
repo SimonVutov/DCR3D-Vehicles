@@ -43,8 +43,14 @@ If you're a fan of the game, feel free to browse the files, try the vehicles, an
 ## Starship
 <img width="720" height="405" alt="Replay 2026-06-06 15-29-54" src="https://github.com/user-attachments/assets/d78fa2ea-a7c4-476f-be78-ad9c097491a6" />
 
+<img width="720" height="405" alt="Replay 2026-06-06 15-30-31 (1)" src="https://github.com/user-attachments/assets/c2529242-fa5e-4a60-897c-c64fbe87240f" />
+
 ## Booster
+<img width="800" height="450" alt="Replay2026-06-0615-31-41-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/95c2edba-080d-45fb-89df-b909defc1c4d" />
 
 ## `J20 3.car`: VTOL plane
+<img width="600" height="337" alt="Replay2026-06-0615-34-15-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d0ec87b2-384a-497c-9300-1e81abee3a00" />
 
 ## `S4.2 480.car`: 479km/h
+<img width="600" height="337" alt="Replay2026-06-0615-38-51-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/a202e463-3738-466d-aed4-7a5c563df3f8" />
+
